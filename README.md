@@ -9,9 +9,11 @@
 
 <img align="right" width = 250px height = 200px alt="Github" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/92f233e8-fd56-4521-bc8e-b48fe669209a" />
 
-Soy un estudiante de Ingeniería en Sistemas de Información en UTN-FRC.  
+Soy un estudiante de Ingeniería en Sistemas de Información en UTN-FRC.Apasionado por la programación y el desarrollo personal.
 
+</div><br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
   <!-- Connect with me -->
   <!--h2 without bottom border-->
@@ -19,7 +21,11 @@ Soy un estudiante de Ingeniería en Sistemas de Información en UTN-FRC.
     <ul align="left">
       <summary><h2 style="display: inline-block">Contactate conmigo</h2></summary>
     </ul>
-  <!-- Icons and links -->
+
+</div><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+  <!-- Icons and links --> 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/santino-zahir-chamia-988237238/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -27,7 +33,9 @@ Soy un estudiante de Ingeniería en Sistemas de Información en UTN-FRC.
   <a href="mailto:santinochamia1192@gmail.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-    
+</div><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## 👨‍💻 Lenguajes y Herramientas:
 
 <table>
@@ -68,7 +76,9 @@ Soy un estudiante de Ingeniería en Sistemas de Información en UTN-FRC.
 </table>
 
 
+</div><br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ### 📊 Estadisticas del Perfil
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=santinozc11&show_icons=true&locale=en&layout=compact" alt="santinozc11" /></p>
