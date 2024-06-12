@@ -4,6 +4,8 @@
 </p>
 
 <h1>Hola a todos, Soy Santino Chamia <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+</div><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
 
@@ -12,7 +14,6 @@
 Soy un estudiante de Ingeniería en Sistemas de Información en UTN-FRC. Apasionado por la programación y el desarrollo personal.
 
 </div><br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
   <div id="user-content-toc">
     <ul align="left">
@@ -29,7 +30,6 @@ Soy un estudiante de Ingeniería en Sistemas de Información en UTN-FRC. Apasion
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## 👨‍💻 Lenguajes y Herramientas:
-
 <table>
     <tbody>
         <tr>
