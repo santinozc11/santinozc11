@@ -16,18 +16,18 @@ Soy un estudiante de Ingeniería en Sistemas de Información en UTN-FRC.
     </ul>
   <!-- Icons and links -->
 <p align="left">
-    <a href="https://www.linkedin.com/in/santino-zahir-chamia-988237238/" target="_blank" style="text-decoration: none;">
-        <img src="https://img.icons8.com/fluent/50/000000/linkedin.png" alt="LinkedIn" height="50" width="50" style="margin-right: 15px;" />
+    <a href="https://www.linkedin.com/in/santino-zahir-chamia-988237238/" target="_blank">
+        <img src="https://img.icons8.com/fluent/50/000000/linkedin.png" alt="LinkedIn" height="50" width="50" style="margin-right: 15px; vertical-align: middle;" />
     </a>
-    <a href="mailto:santinochamia1192@gmail.com" target="_blank" style="text-decoration: none;">
-        <img src="https://img.icons8.com/fluent/50/000000/gmail.png" alt="Gmail" height="50" width="50" style="margin-right: 15px;" />
+    <a href="mailto:santinochamia1192@gmail.com" target="_blank">
+        <img src="https://img.icons8.com/fluent/50/000000/gmail.png" alt="Gmail" height="50" width="50" style="margin-right: 15px; vertical-align: middle;" />
     </a>
-    <a href="https://www.instagram.com/santinozc/" target="_blank" style="text-decoration: none;">
-        <img src="https://img.icons8.com/fluent/50/000000/instagram-new.png" alt="Instagram" height="50" width="50" style="margin-right: 15px;" />
+    <a href="https://www.instagram.com/santinozc/" target="_blank">
+        <img src="https://img.icons8.com/fluent/50/000000/instagram-new.png" alt="Instagram" height="50" width="50" style="margin-right: 15px; vertical-align: middle;" />
     </a>
 </p>
     
-<h3>  &nbsp;🛠️ Languages and Tools:</h3>
+<h3>  &nbsp;🛠️ Lenguajes y herramientas:</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
