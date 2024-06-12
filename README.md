@@ -14,29 +14,36 @@ Soy un estudiante de Ingeniería en Sistemas de Información en UTN-FRC.
     <ul align="left">
       <summary><h2 style="display: inline-block">Como encontrarme🤝</h2></summary>
     </ul>
-  <!--icons and links-->
-  <p align="left">
-  <a href="https://www.linkedin.com/in/santino-zahir-chamia-988237238/" target="blank"><img align="center" src="" alt="linkedin" height="50" width="50" /></a>
-  <a href="santinochamia1192@gmail.com" target="blank"><img align="center" src="" alt="gmail" height="50" width="50"  /></a>
-  </p>
-  </div>
+  <!-- Icons and links -->
+<p align="left">
+    <a href="https://www.linkedin.com/in/santino-zahir-chamia-988237238/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="50" width="50" />
+    </a>
+    <a href="mailto:santinochamia1192@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="50" width="50" />
+    </a>
+    <a href="https://www.instagram.com/santinozc/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="50" width="50" />
+    </a>
+</p>
 
 ---
 
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![GitLab](https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab)
+  ![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git)
+  ![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=FCC624)![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=flat-square&logo=ubuntu)
+  ![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github)
+  ![GitLab](https://img.shields.io/badge/GitLab-292961?style=flat&logo=gitlab)
 
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
@@ -44,24 +51,12 @@ Soy un estudiante de Ingeniería en Sistemas de Información en UTN-FRC.
 
 <br/>
 
-<div id="user-content-toc">
-  <ul>
-    <summary><h2 style="display: inline-block"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Problem Solving</h2></summary>
-  </ul>
-</div>
-<!--icons and links-->
-<p>
-<a href="https://leetcode.com/Mohamed_Magdi/" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/ccea8959-b23e-4619-893d-18f85870b45e" alt="leetcode" height="50" width="50" /></a>
-<a href="https://www.hackerrank.com/profile/mohamed_m_alseh1" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/b0b5cfe3-3565-41d1-a1f5-6a3f88f4c42f" alt="hackerrank" height="50" width="50" /></a>
-</p>
-
----
 
 ### 📊 Estadisticas del Perfil
 
 [![Santino Chamia GitHub Stats](https://github-readme-stats.vercel.app/api?username=santinozc11&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/santinozc11/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mo-Alsehli&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santinozc11&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="" /></p>
 
 ---
 
