@@ -4,15 +4,12 @@
 </p>
 
 <h2>Hola 👋,Soy Santino Chamia</h2>
-</div><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
 
 <img align="right" width = 250px height = 200px alt="Github" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/92f233e8-fd56-4521-bc8e-b48fe669209a" />
 
-Soy un estudiante de Ingeniería en Sistemas de Información en UTN-FRC.Apasionado por la programación y el desarrollo personal.
+Soy un estudiante de Ingeniería en Sistemas de Información en UTN-FRC. Apasionado por la programación y el desarrollo personal.
 
 </div><br>
 
@@ -87,7 +84,10 @@ Soy un estudiante de Ingeniería en Sistemas de Información en UTN-FRC.Apasiona
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santinozc11&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="" /></p>
 
----
+</div><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 
 > Contribution Graph
 
@@ -96,4 +96,7 @@ Soy un estudiante de Ingeniería en Sistemas de Información en UTN-FRC.Apasiona
        alt="snake" /></a>
 </div>
 
----
+</div><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
