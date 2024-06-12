@@ -12,19 +12,14 @@ Soy un estudiante de Ingeniería en Sistemas de Información en UTN-FRC.
   <!--h2 without bottom border-->
   <div id="user-content-toc">
     <ul align="left">
-      <summary><h2 style="display: inline-block">Como encontrarme🤝</h2></summary>
+      <summary><h2 style="display: inline-block">Contactate conmigo</h2></summary>
     </ul>
   <!-- Icons and links -->
+
 <p align="left">
-    <a href="https://www.linkedin.com/in/santino-zahir-chamia-988237238/" target="_blank">
-        <img src="https://img.icons8.com/fluent/50/000000/linkedin.png" alt="LinkedIn" height="50" width="50" style="margin-right: 15px; vertical-align: middle;" />
-    </a>
-    <a href="mailto:santinochamia1192@gmail.com" target="_blank">
-        <img src="https://img.icons8.com/fluent/50/000000/gmail.png" alt="Gmail" height="50" width="50" style="margin-right: 15px; vertical-align: middle;" />
-    </a>
-    <a href="https://www.instagram.com/santinozc/" target="_blank">
-        <img src="https://img.icons8.com/fluent/50/000000/instagram-new.png" alt="Instagram" height="50" width="50" style="margin-right: 15px; vertical-align: middle;" />
-    </a>
+  <a href="https://www.linkedin.com/in/santino-zahir-chamia-988237238/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/santinozc/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:santinochamia1192@gmail.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
     
 ## 👨‍💻 Lenguajes y Herramientas:
