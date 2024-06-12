@@ -1,15 +1,17 @@
-<div align="center"><img src="https://github.com/santinozc11/santinozc11/assets/98949843/7b841857-16fb-422d-9297-be42e3eaf3a9" height = 250px width = 60%  /></div>
+<div align="center"><img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/7b841857-16fb-422d-9297-be42e3eaf3a9" height = 250px width = 60%  /></div>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Tourney&center=true&color=2CFF00&size=40&width=750&height=80&lines=Santino%20Chamia"/>
 </p>
 
-<h2> Hola a todos, soy Santino Chamia!</h2>
+<h2>Hola 👋,Soy Santino Chamia</h2>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
 
 <img align="right" width = 250px height = 200px alt="Github" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/92f233e8-fd56-4521-bc8e-b48fe669209a" />
 
 Soy un estudiante de Ingeniería en Sistemas de Información en UTN-FRC.  
+
+
 
   <!-- Connect with me -->
   <!--h2 without bottom border-->
@@ -24,6 +26,7 @@ Soy un estudiante de Ingeniería en Sistemas de Información en UTN-FRC.
   <a href="https://www.instagram.com/santinozc/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:santinochamia1192@gmail.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
     
 ## 👨‍💻 Lenguajes y Herramientas:
 
@@ -63,6 +66,7 @@ Soy un estudiante de Ingeniería en Sistemas de Información en UTN-FRC.
         </tr>
     </tbody>
 </table>
+
 
 
 ### 📊 Estadisticas del Perfil
