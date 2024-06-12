@@ -4,6 +4,9 @@
 </p>
 
 <h2>Hola 👋,Soy Santino Chamia</h2>
+</div><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
 
@@ -21,10 +24,6 @@ Soy un estudiante de Ingeniería en Sistemas de Información en UTN-FRC.Apasiona
     <ul align="left">
       <summary><h2 style="display: inline-block">Contactate conmigo</h2></summary>
     </ul>
-
-</div><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
   <!-- Icons and links --> 
 
 <p align="left">
