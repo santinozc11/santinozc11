@@ -14,15 +14,11 @@ Soy un estudiante de Ingeniería en Sistemas de Información en UTN-FRC. Apasion
 </div><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-  <!-- Connect with me -->
-  <!--h2 without bottom border-->
   <div id="user-content-toc">
     <ul align="left">
       <summary><h2 style="display: inline-block">Contactate conmigo</h2></summary>
     </ul>
   <!-- Icons and links --> 
-
 <p align="left">
   <a href="https://www.linkedin.com/in/santino-zahir-chamia-988237238/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/santinozc/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
