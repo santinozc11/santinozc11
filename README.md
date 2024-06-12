@@ -16,18 +16,17 @@ Soy un estudiante de Ingeniería en Sistemas de Información en UTN-FRC.
     </ul>
   <!-- Icons and links -->
 <p align="left">
-    <a href="https://www.linkedin.com/in/santino-zahir-chamia-988237238/" target="_blank" style="text-decoration:none;">
+    <a href="https://www.linkedin.com/in/santino-zahir-chamia-988237238/" target="_blank" style="text-decoration: none;">
         <img src="https://img.icons8.com/fluent/50/000000/linkedin.png" alt="LinkedIn" height="50" width="50" style="margin-right: 15px;" />
     </a>
-    <a href="mailto:santinochamia1192@gmail.com" target="_blank" style="text-decoration:none;">
+    <a href="mailto:santinochamia1192@gmail.com" target="_blank" style="text-decoration: none;">
         <img src="https://img.icons8.com/fluent/50/000000/gmail.png" alt="Gmail" height="50" width="50" style="margin-right: 15px;" />
     </a>
-    <a href="https://www.instagram.com/santinozc11/" target="_blank" style="text-decoration:none;">
+    <a href="https://www.instagram.com/santinozc/" target="_blank" style="text-decoration: none;">
         <img src="https://img.icons8.com/fluent/50/000000/instagram-new.png" alt="Instagram" height="50" width="50" style="margin-right: 15px;" />
     </a>
 </p>
----
-
+    
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
 
 - 💻 &nbsp;
