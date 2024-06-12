@@ -1,6 +1,10 @@
 ---
 
-<img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/7b841857-16fb-422d-9297-be42e3eaf3a9" height="250px" width="60%" />
+
+<div align="center">
+  <img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/7b841857-16fb-422d-9297-be42e3eaf3a9" height="250px" width="60%" />
+</div>
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Tourney&center=true&color=2CFF00&size=40&width=750&height=80&lines=Santino%20Chamia)
 
