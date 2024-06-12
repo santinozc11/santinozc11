@@ -1,4 +1,7 @@
-<div align="center"><img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/7b841857-16fb-422d-9297-be42e3eaf3a9" height = 250px width = 60%  /></div>
+<div align="center"><img src="https://github.com/santinozc11/santinozc11/assets/98949843/7b841857-16fb-422d-9297-be42e3eaf3a9" height = 250px width = 60%  /></div>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Tourney&center=true&color=2CFF00&size=40&width=750&height=80&lines=Santino%20Chamia"/>
+</p>
 
 <h2> Hola a todos, soy Santino Chamia!</h2>
 
@@ -63,6 +66,9 @@ Soy un estudiante de Ingeniería en Sistemas de Información en UTN-FRC.
 
 
 ### 📊 Estadisticas del Perfil
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=santinozc11&show_icons=true&locale=en&layout=compact" alt="santinozc11" /></p>
+</br></br>
 
 [![Santino Chamia GitHub Stats](https://github-readme-stats.vercel.app/api?username=santinozc11&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/santinozc11/github-readme-stats)
 
