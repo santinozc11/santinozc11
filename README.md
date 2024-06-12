@@ -7,9 +7,8 @@
 
 
 <div align="center">
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Tourney&center=true&color=2CFF00&size=40&width=750&height=80&lines=Santino%20Chamia)
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Tourney&center=true&color=2CFF00&size=40&width=750&height=80&lines=Santino%20Chamia" />
 </div>
-
 # Hola a todos, Soy Santino Chamia <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 ---
