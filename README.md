@@ -79,7 +79,7 @@ Soy un estudiante de Ingeniería en Sistemas de Información en UTN-FRC. Apasion
 > Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg" alt="snake" />
 </p>
 
 ---
