@@ -19,7 +19,7 @@
 
 <img align="right" width="250px" height="200px" alt="Github" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/92f233e8-fd56-4521-bc8e-b48fe669209a" />
 
-Soy un estudiante de Ingeniería en Sistemas de Información en UTN-FRC. Apasionado por la programación y el desarrollo personal.
+Soy un estudiante de Ingeniería en Sistemas de Información en UTN-FRC y Desarrollador Fullstack. Apasionado por la programación y el desarrollo personal.
 
 ---
 
